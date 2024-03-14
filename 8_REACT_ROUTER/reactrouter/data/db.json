@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "id": "2880",
+        "name": "tapete",
+        "price": "30"
+      },
+      {
+        "id": "5dd8",
+        "name": "Camisa",
+        "price": "100"
+      },
+      {
+        "id": "9ad3",
+        "name": "Óculos",
+        "price": "50"
+      },
+      {
+        "id": "3520",
+        "name": "Camisa Social",
+        "price": "130"
+      },
+      {
+        "id": "5ga5",
+        "name": "Tênis sport",
+        "price": "250"
+      },
+      {
+        "id": "9lod1",
+        "name": "Óculos de Sol",
+        "price": "65"
+      }
+    ]
+  }
+
+  

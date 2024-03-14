@@ -1,0 +1,18 @@
+.carros{
+    width: 300px;
+    padding: 5px 0px;
+    margin: 15px auto;
+}
+
+.carros li{
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+.comEstoque{
+    border-bottom: 1px solid green;
+}
+
+.semEstoque{
+    border-bottom: 1px solid red;
+}
